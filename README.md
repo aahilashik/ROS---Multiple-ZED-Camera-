@@ -1,5 +1,5 @@
 # ROS---Multiple-ZED-Camera-
-Map the environment with Multiple RGBD(ZED) Cameras with RTABMAP and ROS
+Use Multiple ZED Stereo Cameras for the 3D mapping with RTABMAP and ROS
 
 For Multiple camera RTAB mapping, we need to install RTABMap and RTABMap_ROS from source : https://github.com/introlab/rtabmap_ros#build-from-source
 
